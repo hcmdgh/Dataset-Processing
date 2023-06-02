@@ -1,6 +1,0 @@
-[submodule "submodule/JOJO-Elasticsearch"]
-	path = submodule/JOJO-Elasticsearch
-	url = git@github.com:hcmdgh/JOJO-Elasticsearch.git
-[submodule "submodule/DGL-Wrapper"]
-	path = submodule/DGL-Wrapper
-	url = git@github.com:hcmdgh/DGL-Wrapper.git
