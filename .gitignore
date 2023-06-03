@@ -1,3 +1,6 @@
 __pycache__
 *.log
 test*
+*.tsv 
+ckpts 
+TransE_emb 
