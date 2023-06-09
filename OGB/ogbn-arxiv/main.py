@@ -27,7 +27,6 @@ def count_label(label, total):
     print(', '.join(str_list))
     
 
-dataset = PygNodePropPredDataset(name='ogbn-arxiv', root='/Dataset/OGB/ogbn-arxiv/Raw') 
 
 split_idx = dataset.get_idx_split()
 train_idx, valid_idx, test_idx = split_idx["train"].squeeze(), split_idx["valid"].squeeze(), split_idx["test"].squeeze()

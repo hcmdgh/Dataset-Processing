@@ -6,7 +6,7 @@ conda activate py37
 
 set -eux 
 
-emb_dim=400 
+emb_dim=512 
 
 cd TransE_emb 
 
